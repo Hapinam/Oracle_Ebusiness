@@ -1,0 +1,21 @@
+# Local environment and credentials
+.env
+*.env
+*.pwd
+wallet/
+tnsnames.ora
+listener.ora
+sqlnet.ora
+
+# Oracle/application generated output
+*.log
+*.lst
+*.trc
+*.out
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
